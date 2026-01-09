@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rajyavardhan Singh
 - 👀 I’m interested in DSA, Web Development, ML and military
 - 🌱 I’m currently learning backend development
-- ⚡ Fun fact: I'm an Ex NDA Cadet
 
 <!---
 RajyavardhanS/RajyavardhanS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
